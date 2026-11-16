@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Insurance Policy Claims Adjudication Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
